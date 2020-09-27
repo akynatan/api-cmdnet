@@ -1,0 +1,33 @@
+Prefixo de Integração: cmdnet_fibra
+Identificadores de Campanha:
+
+HERO
+-----------------------------
+PRODUTO		    IDENTIFICADOR
+HERO BASICO	    fa148d0f16eaf364b507577f8edd371d
+HERO NA MEDIDA	a1bf28fb7b7ac20ee5fd1fadfa7b9980
+HERO COMPLETO	97b76ce1d99bb66f68d002797bd2f3ef
+
+ENSINA
+-----------------------------
+PRODUTO		    IDENTIFICADOR
+ENSINA AVULSO	3187cc2c89b8f73fcec10d18492078cd
+ENSINA BUNDLE	230f0c717deddb014c54e0957dc5b488
+
+------------------------------------------------
+Prefixo de Integração: hd_fibra
+Identificadores de Campanha:
+
+HERO
+-----------------------------
+PRODUTO		    IDENTIFICADOR
+ENSINA AVULSO	3187cc2c89b8f73fcec10d18492078cd
+ENSINA BUNDLE	230f0c717deddb014c54e0957dc5b488
+
+
+ENSINA
+-----------------------------
+PRODUTO		    IDENTIFICADOR
+ENSINA AVULSO	eb12da1e2d49cc944836da55db506861
+ENSINA BUNDLE	3a0593db8e0bf554b15d3eefb6b5c67e
+
